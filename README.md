@@ -5,9 +5,9 @@ This project focuses on the comprehensive analysis of real-time electricity gene
 
 
 Key Features:
-1.Real-time data extraction and storage.
-2.Cron job for regular extraction.
-3.Data cleaning and imputation techniques.
-4.Visualization with Matplotlib and Seaborn.
+1. Real-time data extraction and storage. 
+2. Cron job for regular extraction.
+3. Data cleaning and imputation techniques.
+4. Visualization with Matplotlib and Seaborn.
 
 Note: Please do create a SQL database and also change it's details on these two files for succesfull implementation. The script needs to be run using cron job or any other scheduler for extracting data every 15 minutes.
