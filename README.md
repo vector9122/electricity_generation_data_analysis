@@ -3,6 +3,7 @@ This project focuses on the comprehensive analysis of real-time electricity gene
 1. The Python script for web scraping, executed by a cron job every 15 minutes, extracts and saves data to the database.
 2.The Jupyter notebook, which pulls data from the database, performs cleaning, and conducts visualizations using Matplotlib and Seaborn.
 
+
 Key Features
 1.Real-time data extraction and storage.
 2.Cron job for regular extraction.
