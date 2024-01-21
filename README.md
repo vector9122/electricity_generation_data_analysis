@@ -4,7 +4,7 @@ This project focuses on the comprehensive analysis of real-time electricity gene
 2. The Jupyter notebook, which pulls data from the database, performs cleaning, and conducts visualizations using Matplotlib and Seaborn.
 
 
-Key Features
+Key Features:
 1.Real-time data extraction and storage.
 2.Cron job for regular extraction.
 3.Data cleaning and imputation techniques.
